@@ -1,6 +1,5 @@
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP)
 
+colab link : https://drive.google.com/file/d/1stJgigUvXByKQ_C2Ntt1NyZVMAiPSeRQ/view?usp=sharing
 
-collab link:https://colab.research.google.com/drive/1JfZKfWY_lA80UtWWEGRPBuIusRtN6Fjg?usp=sharing
-
-ppt link: https://docs.google.com/presentation/d/1cITP20GhHvuNlKCELmg1Cs9hI0XAlDhZ/edit?usp=sharing&ouid=106702906048169590831&rtpof=true&sd=true
+ppt link : https://drive.google.com/file/d/1LnoMQh2eQqkBAw2MajtkSCAk7xjMLgNl/view?usp=sharing
